@@ -1,6 +1,6 @@
 ## Hi there!
 # Hi! I'm Christian! Below is a little about me and my computing journey! 
-Hey there! I'm a Computer Science student at Queen’s University, passionate about building software solutions and exploring new technologies. I enjoy working on web development, backend systems, and AI-driven applications. Always excited to learn and collaborate on new projects!
+**Hey there! I'm a Computer Science student at Queen’s University, passionate about building software solutions and exploring new technologies. I enjoy working on web development, backend systems, and AI-driven applications. Always excited to learn and collaborate on new projects!**
 ---
 
 ## 🛠 Tech Stack
