@@ -11,7 +11,7 @@ I'm a Computer Science student at Queen’s University, passionate about buildin
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![RESTful API](https://img.shields.io/badge/REST%20API-00599C?style=flat-square&logo=swagger)
+![RESTful API's](https://img.shields.io/badge/REST%20API-00599C?style=flat-square&logo=swagger)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -27,6 +27,12 @@ I'm a Computer Science student at Queen’s University, passionate about buildin
 ## Fun Fact
 
 I'm a former competitive international figure skater! This experience gives me a unique blend of creativity, and ability to work under pressure, skills that I've been able to apply to coding! ⛸️
+
+## My Latest Projects
+
+- **[Flockr](https://github.com/chrisx9r/Flockr)** - A web app that helps groups find a central meeting point.
+- **[QHacks Food Matching](https://github.com/chrisx9r/Food4ll)** - AI-powered platform that connects food suppliers with food banks to reduce waste.
+- **[Euchred Keynote Generator](https://github.com/chrisx9r/Euchre)** - A tool for generating Euchre tournament keynotes automatically.
 
 
 
