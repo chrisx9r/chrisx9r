@@ -1,9 +1,9 @@
-## Hi there!
-Hi! I'm Christian! Below is a little about me and my computing journey! 
-Hey there! I'm a Computer Science student at Queen’s University, passionate about building software solutions and exploring new technologies. I enjoy working on web development, backend systems, and AI-driven applications. Always excited to learn and collaborate on new projects!
----
+## Hi there, I'm Christian! 👋
 
-## 🛠 Tech Stack
+I'm a Computer Science student at Queen’s University, passionate about building software solutions and exploring new technologies. I enjoy working on web development, backend systems, and AI-driven applications. Always excited to learn and collaborate on new projects! 
+
+
+## 🛠 My Languages
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react.js)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
@@ -26,8 +26,8 @@ Hey there! I'm a Computer Science student at Queen’s University, passionate ab
 
 ## Fun Fact
 
-I'm a former competitive international figure skater! This experience gives me a unique blend of creativity, and ability to work under pressure, skills that I've been able to apply to coding!
----
+I'm a former competitive international figure skater! This experience gives me a unique blend of creativity, and ability to work under pressure, skills that I've been able to apply to coding! ⛸️
+
 
 
 
