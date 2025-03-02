@@ -20,7 +20,7 @@ I'm a Computer Science student at Queen’s University, passionate about buildin
 ---
 
 ## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisx9r&show_icons=true&theme=dark)
 
 ---
 
