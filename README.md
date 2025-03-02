@@ -1,6 +1,6 @@
 ## Hi there!
-# Hi! I'm Christian! Below is a little about me and my computing journey! 
-**Hey there! I'm a Computer Science student at Queen’s University, passionate about building software solutions and exploring new technologies. I enjoy working on web development, backend systems, and AI-driven applications. Always excited to learn and collaborate on new projects!**
+Hi! I'm Christian! Below is a little about me and my computing journey! 
+Hey there! I'm a Computer Science student at Queen’s University, passionate about building software solutions and exploring new technologies. I enjoy working on web development, backend systems, and AI-driven applications. Always excited to learn and collaborate on new projects!
 ---
 
 ## 🛠 Tech Stack
@@ -25,6 +25,7 @@
 ---
 
 ## Fun Fact
+
 I'm a former competitive international figure skater! This experience gives me a unique blend of creativity, and ability to work under pressure, skills that I've been able to apply to coding!
 ---
 
