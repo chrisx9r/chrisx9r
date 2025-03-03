@@ -31,8 +31,8 @@ I'm a former competitive international figure skater! This experience gives me a
 ## My Latest Projects
 
 - **[Flockr](https://github.com/chrisx9r/Flockr)** - A web app that helps groups find a central meeting point.
-- **[QHacks Food Matching](https://github.com/chrisx9r/Food4ll)** - AI-powered platform that connects food suppliers with food banks to reduce waste.
-- **[Euchred Keynote Generator](https://github.com/chrisx9r/Euchre)** - A tool for generating Euchre tournament keynotes automatically.
+- **[Food4ll](https://github.com/chrisx9r/Food4ll)** - AI-powered platform that connects food suppliers with food banks to reduce waste.
+- **[Euchred?](https://github.com/chrisx9r/Euchre)** - A tool for determining if a Euchre can take place in a given game after the 3rd trick
 
 
 
